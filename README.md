@@ -2,6 +2,6 @@
 
 Nama : Pak Bepe
 
-NPM : 2201234567
+NPM : 230123456789
 
-Kelas : PBP A
+Kelas : PBP D
